@@ -10,6 +10,6 @@ This system is a 'prototype', unfortunately it was never implemented before the 
 
 You can view the company website at www.TrueBarbarianGames.com
 
-#Notes
+# Notes
 When I created this project, I used Thunks and Generators to avoid "callback hell".  You can view thunkify and synchronize files to see how this works.
 I'm not sure how often that technique is used in industry today, but it' quite a fun technique.  If you click on any of the routes, you will notice the code looks synchronous (with the yield operator, indicating waiting on callbacks).  
